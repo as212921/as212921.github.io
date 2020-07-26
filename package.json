@@ -1,0 +1,22 @@
+{
+  "name": "@as212921/site",
+  "version": "1.0.0",
+  "description": "Copyright &copy; Andrew Ying 2020.",
+  "main": "src/index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Andrew Ying",
+    "email": "hi@andrewying.com"
+  },
+  "scripts": {
+    "build": "gulp css"
+  },
+  "devDependencies": {
+    "bulma": "^0.9.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-sass": "^4.1.0",
+    "sass": "^1.26.10"
+  }
+}
